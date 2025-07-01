@@ -1,0 +1,1 @@
+https://pnpm.io/package_json
